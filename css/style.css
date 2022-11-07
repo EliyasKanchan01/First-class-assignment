@@ -1,0 +1,23 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+	margin: 0;
+}
+div{
+	width: 1200px;
+	margin: auto;
+}
+h1{
+	color: #000;
+	background-color: #0e8fafe3;
+	text-align: center;
+
+}
+p {
+    font-size: 18px;
+    font-weight: 300;
+    letter-spacing: 1px;
+}
+span {
+    color: #e30a56e3;
+    font-weight: 800;
+}
